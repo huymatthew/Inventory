@@ -4,4 +4,4 @@ Game Tái tạo lại hệ thống kho đồ của Minecraft
 ## Thư viện sử dụng
 - ### Pygame
 
-[Demo][demo.png]
+[Demo](demo.png)
